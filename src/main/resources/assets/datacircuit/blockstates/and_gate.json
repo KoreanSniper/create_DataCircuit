@@ -1,0 +1,8 @@
+{
+  "multipart": [
+    { "when": { "facing": "north" }, "apply": { "model": "datacircuit:block/and_gate" } },
+    { "when": { "facing": "east" }, "apply": { "model": "datacircuit:block/and_gate", "y": 90 } },
+    { "when": { "facing": "south" }, "apply": { "model": "datacircuit:block/and_gate", "y": 180 } },
+    { "when": { "facing": "west" }, "apply": { "model": "datacircuit:block/and_gate", "y": 270 } }
+  ]
+}

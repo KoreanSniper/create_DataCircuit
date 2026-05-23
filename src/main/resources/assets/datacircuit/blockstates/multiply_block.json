@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "datacircuit:block/multiply_block" },
+    "facing=east": { "model": "datacircuit:block/multiply_block", "y": 90 },
+    "facing=south": { "model": "datacircuit:block/multiply_block", "y": 180 },
+    "facing=west": { "model": "datacircuit:block/multiply_block", "y": 270 }
+  }
+}

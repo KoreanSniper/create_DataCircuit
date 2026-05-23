@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "datacircuit:block/number_input"
+    }
+  }
+}

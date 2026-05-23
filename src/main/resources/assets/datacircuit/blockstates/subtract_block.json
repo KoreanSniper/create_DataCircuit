@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "datacircuit:block/subtract_block" },
+    "facing=east": { "model": "datacircuit:block/subtract_block", "y": 90 },
+    "facing=south": { "model": "datacircuit:block/subtract_block", "y": 180 },
+    "facing=west": { "model": "datacircuit:block/subtract_block", "y": 270 }
+  }
+}

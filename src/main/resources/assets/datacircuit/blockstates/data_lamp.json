@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "datacircuit:block/data_lamp"
+    },
+    "lit=true": {
+      "model": "datacircuit:block/data_lamp_on"
+    }
+  }
+}

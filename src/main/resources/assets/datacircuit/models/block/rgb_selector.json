@@ -1,0 +1,7 @@
+{
+  "parent": "datacircuit:block/data_signal_source",
+  "textures": {
+    "all": "datacircuit:block/rgb_selector",
+    "particle": "datacircuit:block/rgb_selector"
+  }
+}

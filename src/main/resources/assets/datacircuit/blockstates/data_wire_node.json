@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "facing=up": { "model": "datacircuit:block/data_wire_node" },
+    "facing=down": { "model": "datacircuit:block/data_wire_node", "x": 180 },
+    "facing=north": { "model": "datacircuit:block/data_wire_node", "x": 90 },
+    "facing=south": { "model": "datacircuit:block/data_wire_node", "x": 90, "y": 180 },
+    "facing=west": { "model": "datacircuit:block/data_wire_node", "x": 90, "y": 270 },
+    "facing=east": { "model": "datacircuit:block/data_wire_node", "x": 90, "y": 90 }
+  }
+}

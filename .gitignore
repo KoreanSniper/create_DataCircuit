@@ -1,0 +1,25 @@
+# Gradle and local build output
+.gradle/
+.gradle-home/
+build/
+build-*/
+run/
+
+# Local machine settings
+local.properties
+
+# IDE metadata
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# Generated archives and logs
+*.jar
+*.log
+*.tmp
+*.bak
+
+# Accidental extracted metadata
+/META-INF/

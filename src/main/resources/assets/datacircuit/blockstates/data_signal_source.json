@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "datacircuit:block/data_signal_source"
+    },
+    "powered=true": {
+      "model": "datacircuit:block/data_signal_source_on"
+    }
+  }
+}

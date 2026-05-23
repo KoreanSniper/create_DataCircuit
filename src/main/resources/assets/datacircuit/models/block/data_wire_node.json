@@ -1,0 +1,33 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "node": "datacircuit:block/data_wire_node",
+    "particle": "datacircuit:block/data_wire_node"
+  },
+  "elements": [
+    {
+      "from": [4, 0, 4],
+      "to": [12, 3, 12],
+      "faces": {
+        "down": { "texture": "#node" },
+        "up": { "texture": "#node" },
+        "north": { "texture": "#node" },
+        "south": { "texture": "#node" },
+        "west": { "texture": "#node" },
+        "east": { "texture": "#node" }
+      }
+    },
+    {
+      "from": [6, 3, 6],
+      "to": [10, 5, 10],
+      "faces": {
+        "down": { "texture": "#node" },
+        "up": { "texture": "#node" },
+        "north": { "texture": "#node" },
+        "south": { "texture": "#node" },
+        "west": { "texture": "#node" },
+        "east": { "texture": "#node" }
+      }
+    }
+  ]
+}

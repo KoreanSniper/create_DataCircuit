@@ -1,0 +1,7 @@
+{
+  "parent": "datacircuit:block/data_signal_source",
+  "textures": {
+    "all": "datacircuit:block/text_input",
+    "particle": "datacircuit:block/text_input"
+  }
+}
